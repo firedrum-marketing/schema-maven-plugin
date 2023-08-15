@@ -39,7 +39,7 @@
 	</prerequisites>
 
 	<properties>
-		<maven.api.version>3.5.3</maven.api.version>
+		<maven.api.version>3.8.1</maven.api.version>
 		<maven.annotations.version>3.3</maven.annotations.version>
 		<plexus.utils.version>3.0.22</plexus.utils.version>
 		<mojo.java.target>1.7</mojo.java.target>
